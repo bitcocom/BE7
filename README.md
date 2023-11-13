@@ -40,7 +40,7 @@
 | 2    | 2023-12-19(화)    | 10:00-13:00 | SQL & JDBC 프로그래밍 | JDBC를 활용한 진료관리 애플리케이션 만들기 실습 | 1교시 - 진료관리 애플리케이션 만들기 실습(User Interface 만들기)<br>2교시 - 진료관리 애플리케이션 만들기 실습(Controller 만들기)<br>3교시 - 진료관리 애플리케이션 만들기 실습(Model 만들기) |
 | 3    | 2023-12-21(목)    | 10:00-13:00 | Data Modeling & 고급 SQL | Data Modeling을 통한 ERD 이해    | 1교시 - 데이터 모델링이란 무엇인가?<br>2교시 - 개념적 모델링, 논리적 모델링, 물리적 모델링<br>3교시 - ERD 및 RM 그리기 & 고급 SQL 실습 |
 
-> ### 토이프로젝트I START▶ : 2023-12-26~
+### 토이프로젝트I START▶ : 2023-12-26~
 
 ## 3. Spring WEB MVC 프로그래밍 온라인 실시간 강의일정
 **부트캠프의 Spring WEB MVC 온라인 실시간 강의일정과 내용**을 나타낸 표입니다.
@@ -55,7 +55,7 @@
 | 7    | 2024-01-23(화)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 게시판 삭제 Controller 설계하기, 삭제 후 리스트 페이지로 전환하기(redirect 기법)<br>2교시 - 게시판 수정 폼 만들기, 게시판 수정 Controller 만들기(GET, POST), 게시판 조회 수 누적하기 구현<br>3교시 - 답변형 게시판 만들기, 페이징 처리 구현하기 |
 | 8    | 2024-01-25(목)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 회원 로그인 테이블 설계하기(member), 세션과 쿠키의 이해<br>2교시 - 회원 로그인 Mapper 만들기(Mapper interface, Mapper SQL file)<br>3교시 - 회원 로그인 Controller 설계하기, 회원 로그인 UI 구현하기 |
 
-> # 토이프로젝트II START▶ : 2024-01-29~
+### 토이프로젝트II START▶ : 2024-01-29~
 
 ## 4. SpringBoot 기반 JPA / Security & oAuth2 프로그래밍 온라인 실시간 강의일정
 **부트캠프의 SpringBoot 기반 JPA / Security & oAuth2 온라인 실시간 강의일정과 내용**을 나타낸 표입니다.
@@ -65,7 +65,7 @@
 | 2    | 2024-02-08(목)    | 10:00-13:00 | SpringBoot 기반 JPA 프로그래밍 | Spring JPA 프로그래밍                     | 1교시 - JpaRepository interface 이해하기<br>2교시 - EntityManagerFactory 클래스 설명<br>3교시 - @Repository 애노테이션 설명 |
 | 3    | 2024-02-13(화)    | 10:00-13:00 | SpringBoot 기반 JPA 프로그래밍 | Spring JPA 프로그래밍                     | 1교시 - JPA 기본 제공 메서드, 쿼리 메서드<br>2교시 - JPQL(@Query, nativeQuery) 만들기<br>3교시 - @Service 클래스 만들기, @Controller 클래스 만들기 |
 | 4    | 2024-02-15(목)    | 10:00-13:00 | SpringBoot 기반 JPA 프로그래밍 | Spring JPA 프로그래밍                     | 1교시 - 회원 등록 페이지 만들기, 회원 상세보기 페이지 만들기<br>2교시 - 회원 수정하기 페이지 및 수정 기능 만들기<br>3교시 - 회원 삭제하게 만들기 |
-> # 토이프로젝트III START▶ : 2024-02-19~
+### 토이프로젝트III START▶ : 2024-02-19~
 | 회차 | 일정               | 시간        | 학습 키워드                     | 강의 목표                                  | 상세 내용                                                           |
 |------|-------------------|-------------|-------------------------------|--------------------------------------------|--------------------------------------------------------------------|
 | 5    | 2024-02-27(화)    | 10:00-13:00 | Security & oAuth2 프로그래밍  | Spring Security의 이해                    | 1교시 - Spring Security 이해하기, Spring Security API 설치하기(build.gradle)<br>2교시 - application.properties에 logger 설정하기, SecurityConfig 파일 만들기<br>3교시 - SecurityConfig에 인증 및 권한 설정하기, configure() 메서드에 HttpSecurity 설정 |
@@ -73,8 +73,8 @@
 | 7    | 2024-03-05(화)    | 10:00-13:00 | Spring REST API 만들기        | Spring REST Server 만들기                 | 1교시 - Spring REST Server 만들기(GET)<br>2교시 - Spring REST Server 만들기(POST)<br>3교시 - Spring REST Server 만들기(PUT, DELETE) |
 | 8    | 2024-03-07(목)    | 10:00-13:00 | Spring REST API 만들기        | Spring REST Server 만들기                 | 1교시 - OpenAPI를 활용한 날씨 정보 가져오기<br>2교시 - OpenAPI를 활용한 지도 서비스<br>3교시 - OpenAPI를 활용한 실시간 모니터링(MQTT) |
 
-> # 미니프로젝트 START▶ : 2024-03-18~
-> # 미니프로젝트 KPT START▶ : 2024-04-15~
-> # 파이널 프로젝트▶ : 2024-04-29~
+### 미니프로젝트 START▶ : 2024-03-18~
+### 미니프로젝트 KPT START▶ : 2024-04-15~
+### 파이널 프로젝트▶ : 2024-04-29~
 
 **부트캠프**는 여러분의 백엔드 개발 실력 향상을 위한 기회입니다. 우리는 함께 열정적으로 학습하고, 꿈을 키워나가며, 소프트웨어 개발로 세상을 더 나은 곳으로 만들어 나갈 것입니다.
