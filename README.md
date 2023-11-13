@@ -55,6 +55,8 @@
 | 7    | 2024-01-23(화)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 게시판 삭제 Controller 설계하기, 삭제 후 리스트 페이지로 전환하기(redirect 기법)<br>2교시 - 게시판 수정 폼 만들기, 게시판 수정 Controller 만들기(GET, POST), 게시판 조회 수 누적하기 구현<br>3교시 - 답변형 게시판 만들기, 페이징 처리 구현하기 |
 | 8    | 2024-01-25(목)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 회원 로그인 테이블 설계하기(member), 세션과 쿠키의 이해<br>2교시 - 회원 로그인 Mapper 만들기(Mapper interface, Mapper SQL file)<br>3교시 - 회원 로그인 Controller 설계하기, 회원 로그인 UI 구현하기 |
 
+# **토이프로젝트II START▶**
+
 ## 4. SpringBoot 기반 JPA / Security & oAuth2 프로그래밍 온라인 실시간 강의일정
 **부트캠프의 SpringBoot 기반 JPA / Security & oAuth2 온라인 실시간 강의일정과 내용**을 나타낸 표입니다.
 | 회차 | 일정               | 시간        | 학습 키워드                     | 강의 목표                                  | 상세 내용                                                           |
