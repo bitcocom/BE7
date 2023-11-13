@@ -73,4 +73,6 @@
 | 7    | 2024-03-05(화)    | 10:00-13:00 | Spring REST API 만들기        | Spring REST Server 만들기                 | 1교시 - Spring REST Server 만들기(GET)<br>2교시 - Spring REST Server 만들기(POST)<br>3교시 - Spring REST Server 만들기(PUT, DELETE) |
 | 8    | 2024-03-07(목)    | 10:00-13:00 | Spring REST API 만들기        | Spring REST Server 만들기                 | 1교시 - OpenAPI를 활용한 날씨 정보 가져오기<br>2교시 - OpenAPI를 활용한 지도 서비스<br>3교시 - OpenAPI를 활용한 실시간 모니터링(MQTT) |
 
+# 미니프로젝트 START▶
+
 **부트캠프**는 여러분의 백엔드 개발 실력 향상을 위한 기회입니다. 우리는 함께 열정적으로 학습하고, 꿈을 키워나가며, 소프트웨어 개발로 세상을 더 나은 곳으로 만들어 나갈 것입니다.
