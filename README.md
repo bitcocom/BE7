@@ -40,4 +40,17 @@
 | 2    | 2023-12-19(화)    | 10:00-13:00 | SQL & JDBC 프로그래밍 | JDBC를 활용한 진료관리 애플리케이션 만들기 실습 | 1교시 - 진료관리 애플리케이션 만들기 실습(User Interface 만들기)<br>2교시 - 진료관리 애플리케이션 만들기 실습(Controller 만들기)<br>3교시 - 진료관리 애플리케이션 만들기 실습(Model 만들기) |
 | 3    | 2023-12-21(목)    | 10:00-13:00 | Data Modeling & 고급 SQL | Data Modeling을 통한 ERD 이해    | 1교시 - 데이터 모델링이란 무엇인가?<br>2교시 - 개념적 모델링, 논리적 모델링, 물리적 모델링<br>3교시 - ERD 및 RM 그리기 & 고급 SQL 실습 |
 
+## 3. Spring WEB MVC 프로그래밍 온라인 실시간 강의일정
+**부트캠프의 Spring WEB MVC 온라인 실시간 강의일정과 내용**을 나타낸 표입니다.
+| 회차 | 일정               | 시간        | 학습 키워드                     | 강의 목표                                  | 상세 내용                                                           |
+|------|-------------------|-------------|-------------------------------|--------------------------------------------|--------------------------------------------------------------------|
+| 1    | 2024-01-02(화)    | 10:00-13:00 | 웹 기초(Web Basic) 프로그래밍   | JavaScript과 Ajax 처리 방법의 이해         | 1교시 - JavaScript 동작원리 및 활용하기<br>2교시 - jQuery, Ajax 문법 정리 및 활용하기<br>3교시 - JavaScript와 jQuery를 활용한 JSON 데이터 핸들링하기 |
+| 2    | 2024-01-04(목)    | 10:00-13:00 | Java WEB Programming           | MVC Framework의 이해                       | 1교시 - Java Servlet 프로그래밍, 요청(request)과 응답(response) 처리하기<br>2교시 - JSP(JSTL/EL)의 이해와 활용하기<br>3교시 - MVC(Model-View-Controller) Framework란 무엇인가? |
+| 3    | 2024-01-09(화)    | 10:00-13:00 | Java WEB Programming           | MVC Framework의 이해                       | 1교시 - MVC 핵심 FrontController / POJO 구현하기<br>2교시 - 클라이언트의 요청을 연결해주는 HandlerMapping 구현하기<br>3교시 - ViewResolver를 통한 forward과 redirect 이해하기 |
+| 4    | 2024-01-11(목)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 스프링 프로젝트 만들기(Spring Web MVC), Template 페이지(JSP) 설계하기<br>2교시 - 프론트 컨트롤러(DispatcherServlet) 설정하기(web.xml), @Controller를 이용하여 POJO 객체 설정하기<br>3교시 - @RequestMapping을 이용한 요청 처리하기, DispatcherServlet 환경 설정 파일 만들기(dispatcher-servlet.xml) |
+| 5    | 2024-01-16(화)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 컨트롤러(Controller)에서 뷰(View)로 포워딩하기, 컨트롤러에서 뷰로 전달할 데이터 연결하기(객체 바인딩)<br>2교시 - 뷰에서 JSTL과 EL을 이용하여 데이터 출력하기, 스프링 프레임워크 구동 방식 설명<br>3교시 - MySQL 서버 구동(startup.bat)하고 연결하기, MySQL Board Table 만들기(create) |
+| 6    | 2024-01-18(목)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 게시판 리스트 보기에서 상세보기 연결하기, 게시판 상세보기 Controller 설계하기<br>2교시 - 뷰 페이지(JSP)로 forward하기(객체 바인딩), 게시판 상세보기 뷰(UI) 만들기(JSTL, EL)<br>3교시 - 게시판 삭제하기 기능 구현, GET 방식 즉, QueryString으로 데이터 전달하기(?key=value) |
+| 7    | 2024-01-23(화)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 게시판 삭제 Controller 설계하기, 삭제 후 리스트 페이지로 전환하기(redirect 기법)<br>2교시 - 게시판 수정 폼 만들기, 게시판 수정 Controller 만들기(GET, POST), 게시판 조회 수 누적하기 구현<br>3교시 - 답변형 게시판 만들기, 페이징 처리 구현하기 |
+| 8    | 2024-01-25(목)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 회원 로그인 테이블 설계하기(member), 세션과 쿠키의 이해<br>2교시 - 회원 로그인 Mapper 만들기(Mapper interface, Mapper SQL file)<br>3교시 - 회원 로그인 Controller 설계하기, 회원 로그인 UI 구현하기 |
+
 **부트캠프**는 여러분의 백엔드 개발 실력 향상을 위한 기회입니다. 우리는 함께 열정적으로 학습하고, 꿈을 키워나가며, 소프트웨어 개발로 세상을 더 나은 곳으로 만들어 나갈 것입니다.
