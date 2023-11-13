@@ -8,7 +8,7 @@ IntelliJ IDEA Community Edition을 다운로드하고 설치하기 위한 단계
 2. **IntelliJ IDEA 다운로드 페이지**: IntelliJ IDEA를 다운로드하는 공식 웹페이지로 이동하여 원하는 운영 체제에 맞는 다운로드 버전을 선택하세요.
    - [IntelliJ IDEA 다운로드 페이지](https://www.jetbrains.com/idea/download/)
 
-<div style="width: 300px; height: 200px; overflow: hidden;">
+<div style="width: 200px; height: 100px; overflow: hidden;">
   <img src="https://github.com/bitcocom/BE7/assets/15371961/f5603fdd-ba47-4f72-a563-4c7ee9b19d89" alt="이미지 설명" width="100%" height="auto" />
 </div>
 
