@@ -55,7 +55,7 @@
 | 7    | 2024-01-23(화)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 게시판 삭제 Controller 설계하기, 삭제 후 리스트 페이지로 전환하기(redirect 기법)<br>2교시 - 게시판 수정 폼 만들기, 게시판 수정 Controller 만들기(GET, POST), 게시판 조회 수 누적하기 구현<br>3교시 - 답변형 게시판 만들기, 페이징 처리 구현하기 |
 | 8    | 2024-01-25(목)    | 10:00-13:00 | Spring WEB MVC 프로그래밍     | Spring WEB MVC를 이용한 게시판 만들기     | 1교시 - 회원 로그인 테이블 설계하기(member), 세션과 쿠키의 이해<br>2교시 - 회원 로그인 Mapper 만들기(Mapper interface, Mapper SQL file)<br>3교시 - 회원 로그인 Controller 설계하기, 회원 로그인 UI 구현하기 |
 
-# **토이프로젝트II START▶**
+# 토이프로젝트II START▶
 
 ## 4. SpringBoot 기반 JPA / Security & oAuth2 프로그래밍 온라인 실시간 강의일정
 **부트캠프의 SpringBoot 기반 JPA / Security & oAuth2 온라인 실시간 강의일정과 내용**을 나타낸 표입니다.
@@ -65,6 +65,7 @@
 | 2    | 2024-02-08(목)    | 10:00-13:00 | SpringBoot 기반 JPA 프로그래밍 | Spring JPA 프로그래밍                     | 1교시 - JpaRepository interface 이해하기<br>2교시 - EntityManagerFactory 클래스 설명<br>3교시 - @Repository 애노테이션 설명 |
 | 3    | 2024-02-13(화)    | 10:00-13:00 | SpringBoot 기반 JPA 프로그래밍 | Spring JPA 프로그래밍                     | 1교시 - JPA 기본 제공 메서드, 쿼리 메서드<br>2교시 - JPQL(@Query, nativeQuery) 만들기<br>3교시 - @Service 클래스 만들기, @Controller 클래스 만들기 |
 | 4    | 2024-02-15(목)    | 10:00-13:00 | SpringBoot 기반 JPA 프로그래밍 | Spring JPA 프로그래밍                     | 1교시 - 회원 등록 페이지 만들기, 회원 상세보기 페이지 만들기<br>2교시 - 회원 수정하기 페이지 및 수정 기능 만들기<br>3교시 - 회원 삭제하게 만들기 |
+# 토이프로젝트III START▶
 | 5    | 2024-02-27(화)    | 10:00-13:00 | Security & oAuth2 프로그래밍  | Spring Security의 이해                    | 1교시 - Spring Security 이해하기, Spring Security API 설치하기(build.gradle)<br>2교시 - application.properties에 logger 설정하기, SecurityConfig 파일 만들기<br>3교시 - SecurityConfig에 인증 및 권한 설정하기, configure() 메서드에 HttpSecurity 설정 |
 | 6    | 2024-02-29(목)    | 10:00-13:00 | Security & oAuth2 프로그래밍  | Spring Security의 이해                    | 1교시 - 회원 로그인 폼 설정하기, 회원 로그아웃 설정하기, CSRF 공격 설정하기<br>2교시 - UserDetailsService 구현하기(loadByUsername), UserDetails 객체 구현하기(User, CustomMember)<br>3교시 - 회원 권한 처리에 필요한 Role Entity 만들기, M : N 권한 저장에 필요한 관계 테이블 만들기 |
 | 7    | 2024-03-05(화)    | 10:00-13:00 | Spring REST API 만들기        | Spring REST Server 만들기                 | 1교시 - Spring REST Server 만들기(GET)<br>2교시 - Spring REST Server 만들기(POST)<br>3교시 - Spring REST Server 만들기(PUT, DELETE) |
