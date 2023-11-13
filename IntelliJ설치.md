@@ -9,7 +9,7 @@ IntelliJ IDEA Community Edition을 다운로드하고 설치하기 위한 단계
    - [IntelliJ IDEA 다운로드 페이지](https://www.jetbrains.com/idea/download/)
 
 > ```markdown
-![이미지 설명](https://github.com/bitcocom/BE7/assets/15371961/f5603fdd-ba47-4f72-a563-4c7ee9b19d89)
+> ![이미지 설명](https://github.com/bitcocom/BE7/assets/15371961/f5603fdd-ba47-4f72-a563-4c7ee9b19d89)
 > ```
 위의 두 링크를 따라가면 IntelliJ IDEA Community Edition을 쉽게 다운로드하고 설치할 수 있습니다.<br> 
 각 링크를 클릭하여 자세한 정보와 단계별 가이드를 확인하세요.
