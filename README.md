@@ -1,6 +1,6 @@
 # BE7
 백엔드 7기
-# 부트캠프의 Java 온라인 실시간 강의일정
+# <font color="green">부트캠프의 Java 온라인 실시간 강의일정</font>
 > ```markdown
 > ## 박매일 강사 강의 이력
 > 
