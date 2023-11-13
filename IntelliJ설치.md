@@ -12,5 +12,5 @@ IntelliJ IDEA Community Edition을 다운로드하고 설치하기 위한 단계
   <img src="https://github.com/bitcocom/BE7/assets/15371961/f5603fdd-ba47-4f72-a563-4c7ee9b19d89" alt="이미지 설명" width="100%" height="auto" />
 </div>
 
-위의 두 링크를 따라가면 IntelliJ IDEA Community Edition을 쉽게 다운로드하고 설치할 수 있습니다. 
+위의 두 링크를 따라가면 IntelliJ IDEA Community Edition을 쉽게 다운로드하고 설치할 수 있습니다.<br> 
 각 링크를 클릭하여 자세한 정보와 단계별 가이드를 확인하세요.
