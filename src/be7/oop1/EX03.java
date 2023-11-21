@@ -1,5 +1,4 @@
 package be7.oop1;
-
 public class EX03 {
     public static void main(String[] args) {
         // 한개의 자료형 -> 여러개의 자료형 :배열, 반복문, 이동할때 장점
