@@ -7,8 +7,15 @@ public class BookDTO { // DTO -> 어떻게 설계하는 것이 잘 설계하는 
     private String name;
     private int page;
     // 2. 생략된메서드(디폴트 생성자메서드)를 명시적으로 만든다.
-    public BookDTO(){
-      // 객체를 생성해준다..(내부적으로 이루어진다)
+    public BookDTO() {
+
+    }
+    // 생성자메서드의 오버로딩(중복정의=overloading)
+    public BookDTO(String title, int price, String name, int page) {
+        this.title = title;
+        this.price = price;
+        this.name = name;
+        this.page = page;
     }
     // 3. setter, getter를 자동으로 만드는 방법
     public String getTitle() {
@@ -40,5 +47,15 @@ public class BookDTO { // DTO -> 어떻게 설계하는 것이 잘 설계하는 
 
     public void setPage(int page) {
         this.page = page;
+    }
+    // 4. 객체가 가지고 있는 모든 값을 리턴해주는 동작?(toString(), allPrint())
+    @Override // 상속->재정의
+    public String toString() {
+        return "BookDTO{" +
+                "title='" + title + '\'' +
+                ", price=" + price +
+                ", name='" + name + '\'' +
+                ", page=" + page +
+                '}';
     }
 }
