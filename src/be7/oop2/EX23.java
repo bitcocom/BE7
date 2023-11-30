@@ -12,10 +12,10 @@ public class EX23 {
         String title=scan.nextLine();
 
         System.out.print("책 가격:");
-        int price=scan.nextInt();
-        scan.nextLine(); // 엔터를 한번 읽어 주기
+        int price=scan.nextInt(); // 숫자를 읽고 엔터가 버퍼에 남아 있음
+        scan.nextLine();          // 그래서 엔터를 한번 읽어 주어야 한다.
         System.out.print("책 저자:");
-        String name=scan.nextLine();
+        String name=scan.nextLine(); // 위에서 엔터를 읽어 주지 않으면 여기서 엔터가 버퍼에 남아 있어서 읽어 버리기 때문에 다음 줄로 넘어 가게 됨
 
         System.out.print("책 페이지수:");
         int page=scan.nextInt();
