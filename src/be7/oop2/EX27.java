@@ -16,5 +16,6 @@ public class EX27 {
         System.out.println(arr.get(0));
         System.out.println(arr.get(1));
         System.out.println(arr.get(2));
+
     }
 }
