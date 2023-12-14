@@ -1,6 +1,6 @@
 package be7.model;
 // 책(Object) -> 제목, 가격, 지은이, 페이지수 : 속성, 멤버, 상태(O)
-public class BookDTO { // DTO -> 어떻게 설계하는 것이 잘 설계하는 것인가?
+public class BookDTO { // DTO -> 어떻게 설계하는 것이 잘 설계하는 것인가? , VO
     // 1. 모든 멤버를 정보은닉시킨다.(private)
     private String title;
     private int price;
@@ -49,7 +49,8 @@ public class BookDTO { // DTO -> 어떻게 설계하는 것이 잘 설계하는 
         this.page = page;
     }
     // 4. 객체가 가지고 있는 모든 값을 리턴해주는 동작?(toString(), allPrint())
-    @Override // 상속->재정의
+
+    @Override
     public String toString() {
         return "BookDTO{" +
                 "title='" + title + '\'' +
