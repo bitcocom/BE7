@@ -11,7 +11,7 @@ import java.net.URLEncoder;
 
 public class WeatherService {
 
-    private static final String API_KEY = "a54a36319b90f654c4c8fd41d472693b"; // Replace with your API key
+    private static final String API_KEY = "본인의 Key입력"; // Replace with your API key
     public AddressData getAddressData(String address) {
         try {
             String encodedAddress = URLEncoder.encode(address, "UTF-8");
@@ -21,7 +21,7 @@ public class WeatherService {
             URL url = new URL(apiURL);
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
             connection.setRequestMethod("GET");
-            connection.setRequestProperty("Authorization", "KakaoAK ddcaeaee21f163c58818ca2db1820c67"); // Replace with your Kakao API key
+            connection.setRequestProperty("Authorization", "KakaoAK 본인의 Key입력"); // Replace with your Kakao API key
 
             int responseCode = connection.getResponseCode();
             if (responseCode == HttpURLConnection.HTTP_OK) {
