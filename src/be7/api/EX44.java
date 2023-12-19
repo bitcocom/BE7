@@ -15,3 +15,15 @@ public class EX44 {
         System.out.println(dto1); // ?
     }
 }
+/*
+   책이라는 데이터를 어디에 저장을 할까?
+   1. 메모장
+   2. Excel
+   3. 데이터베이스관리시스템(DBMS--SQL--->CRUD) - MySQL, Oracle, MS-SQL
+      DBMS 테이터를 저장할려면 -> Table(테이블, Entity,,,) : 관계형데이터베이스(RDBMS)
+      사람 ----관리(CRUD)---------------->  DBMS
+              SQL(표준 구조화 질의어)      - table,,,,
+      MySQL 설치
+      |--Database Server 설치(프로그램) - 3306port
+      |--Workbench 8.0 - 접속TOOL
+ */

@@ -10,7 +10,6 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 public class WeatherService {
-
     private static final String API_KEY = "본인의 Key입력"; // Replace with your API key
     public AddressData getAddressData(String address) {
         try {
