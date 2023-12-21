@@ -2,6 +2,7 @@ package be7.model;
 // 책(Object) -> 제목, 가격, 지은이, 페이지수 : 속성, 멤버, 상태(O)
 public class BookDTO { // DTO -> 어떻게 설계하는 것이 잘 설계하는 것인가? , VO
     // 1. 모든 멤버를 정보은닉시킨다.(private)
+    private int num; // setter, getter
     private String title;
     private int price;
     private String name;
@@ -17,7 +18,23 @@ public class BookDTO { // DTO -> 어떻게 설계하는 것이 잘 설계하는 
         this.name = name;
         this.page = page;
     }
+    public BookDTO(int num, String title, int price, String name, int page) {
+        this.num = num;
+        this.title = title;
+        this.price = price;
+        this.name = name;
+        this.page = page;
+    }
     // 3. setter, getter를 자동으로 만드는 방법
+
+    public int getNum() {
+        return num;
+    }
+
+    public void setNum(int num) {
+        this.num = num;
+    }
+
     public String getTitle() {
         return this.title;
     }
